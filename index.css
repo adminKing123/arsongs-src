@@ -5,7 +5,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #000000;
+  background-color: #111111;
 }
 
 .menu-container {
@@ -157,11 +157,30 @@ body {
 }
 
 /* visualizer-container */
-.visualizer-container {
-  width: 100vw;
-  height: 100vh;
+#visualizer-container {
   position: absolute;
-  top: 0;
+  bottom: 0;
   left: 0;
   z-index: -1000;
+}
+
+/* current-song-details */
+#current-song-details {
+  position: absolute;
+  top: 28px;
+  right: 28px;
+}
+
+#current-song-details .cur-song-img img {
+  width: 120px;
+  height: 120px;
+  border-radius: 9px;
+}
+
+.cur-song-name {
+  color: white;
+  margin-top: 8px;
+  text-align: center;
+  font-size: 12px;
+  width: 120px;
 }
