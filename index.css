@@ -1,0 +1,167 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+}
+
+.menu-container {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+}
+
+.menu-button {
+  background-color: #af9b4c;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+.song-list {
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #171717;
+  border-top-left-radius: 9px;
+  border-bottom-left-radius: 9px;
+  min-width: 292px;
+  min-height: 98vh;
+  max-height: 98vh;
+  overflow-y: scroll;
+  z-index: 1;
+  transition: opacity 300ms ease, visibility 0s linear 300ms;
+  pointer-events: none;
+}
+
+.menu-container:hover .song-list {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 300ms ease, visibility 0s;
+  pointer-events: auto;
+}
+
+/* song */
+#songs ul {
+  padding: 0;
+  margin: 0;
+}
+
+.song {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  color: white;
+  min-width: 260px;
+  cursor: pointer;
+}
+
+.song:hover {
+  background-color: #202020;
+}
+
+.song .song-img-container {
+  margin-right: 8px;
+}
+
+.song .song-img-container img {
+  width: 50px;
+  border-radius: 4px;
+}
+
+.song .song-details .song-name {
+  font-size: 14px;
+}
+
+.song .song-details .song-album,
+.song .song-details .song-artists {
+  font-size: 11px;
+  opacity: 0.75;
+}
+
+.search-input input {
+  outline: none;
+  border: none;
+  border-radius: 9px;
+  background-color: #000000;
+  color: white;
+  padding: 8px 16px;
+  margin: 8px;
+  width: calc(100% - 16px);
+}
+
+.search-input {
+  background-color: #171717;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #202020;
+  border-radius: 9px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 9px;
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+#album-art {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.song-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.audio-container {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  opacity: 0;
+  transition: opacity 300ms ease;
+}
+
+.audio-container:hover {
+  opacity: 1;
+}
+
+#player {
+  width: 280px;
+  height: 40px;
+}
+
+/* visualizer-container */
+.visualizer-container {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1000;
+}
