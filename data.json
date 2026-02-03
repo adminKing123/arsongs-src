@@ -6407,6 +6407,12 @@
                     "name": "Sowmya Raoh",
                     "thumbnail300x300": "artist-images/300x300/Sowmya%20Raoh.jpg",
                     "thumbnail1200x1200": "artist-images/1200x1200/Sowmya%20Raoh.jpg"
+                },
+                {
+                    "id": 35,
+                    "name": "Pritam Chakraborty",
+                    "thumbnail300x300": "artist-images/300x300/Pritam%20Chakraborty.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Pritam%20Chakraborty.jpg"
                 }
             ],
             "languages": [
@@ -51168,6 +51174,1644 @@
                     "name": "BGM"
                 }
             ]
+        },
+        "1387": {
+            "id": 1387,
+            "title": "BHGMB - SIGNAL.mp3",
+            "url": "songs-file/BHGMB%20-%20SIGNAL.mp3",
+            "original_name": "SIGNAL",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 300.734694,
+            "short_video_url": null,
+            "album": {
+                "id": 53,
+                "code": "BHGMB",
+                "title": "Bhagam Bhag",
+                "year": 2006,
+                "thumbnail300x300": "album-images/300x300/BHGMB%20-%20Bhagam%20Bhag%20(2006).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/BHGMB%20-%20Bhagam%20Bhag%20(2006).jpg"
+            },
+            "artists": [
+                {
+                    "id": 35,
+                    "name": "Pritam Chakraborty",
+                    "thumbnail300x300": "artist-images/300x300/Pritam%20Chakraborty.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Pritam%20Chakraborty.jpg"
+                },
+                {
+                    "id": 772,
+                    "name": "Remo Fernandes",
+                    "thumbnail300x300": "artist-images/300x300/Remo%20Fernandes.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Remo%20Fernandes.png"
+                },
+                {
+                    "id": 45,
+                    "name": "Suzanne D'Mello",
+                    "thumbnail300x300": "artist-images/300x300/Suzanne%20D'Mello.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Suzanne%20D'Mello.jpg"
+                },
+                {
+                    "id": 295,
+                    "name": "Sameer Anjaan",
+                    "thumbnail300x300": "artist-images/300x300/Sameer%20Anjaan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sameer%20Anjaan.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1388": {
+            "id": 1388,
+            "title": "Enthrn - Kadhal Anukkal.mp3",
+            "url": "songs-file/Enthrn%20-%20Kadhal%20Anukkal.mp3",
+            "original_name": "Kadhal Anukkal",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 344.677007,
+            "short_video_url": null,
+            "album": {
+                "id": 944,
+                "code": "Enthrn",
+                "title": "Enthiran (The Robot)",
+                "year": 2010,
+                "thumbnail300x300": "album-images/300x300/Enthrn%20-%20Enthiran%20%28The%20Robot%29%20%282010%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/Enthrn%20-%20Enthiran%20%28The%20Robot%29%20%282010%29.png",
+                "actors": [
+                    {
+                        "id": 7,
+                        "name": "Aishwarya Rai Bachchan",
+                        "thumbnail300x300": "actor-images/300x300/Aishwarya%20Rai%20Bachchan.png",
+                        "thumbnail1200x1200": "actor-images/1200x1200/Aishwarya%20Rai%20Bachchan.png"
+                    },
+                    {
+                        "id": 63,
+                        "name": "Rajinikanth",
+                        "thumbnail300x300": "actor-images/300x300/Rajinikanth.png",
+                        "thumbnail1200x1200": "actor-images/1200x1200/Rajinikanth.png"
+                    }
+                ]
+            },
+            "artists": [
+                {
+                    "id": 24,
+                    "name": "Shreya Ghoshal",
+                    "thumbnail300x300": "artist-images/300x300/Shreya%20Ghoshal.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shreya%20Ghoshal.jpg"
+                },
+                {
+                    "id": 773,
+                    "name": "Vijay Prakash Sharma",
+                    "thumbnail300x300": "artist-images/300x300/Vijay%20Prakash%20Sharma.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vijay%20Prakash%20Sharma.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 13,
+                    "name": "Tamil"
+                }
+            ]
+        },
+        "1389": {
+            "id": 1389,
+            "title": "JSTS - Peaches.mp3",
+            "url": "songs-file/JSTS%20-%20Peaches.mp3",
+            "original_name": "Peaches",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 198.192,
+            "short_video_url": null,
+            "album": {
+                "id": 873,
+                "code": "JSTS",
+                "title": "Justice",
+                "year": 2021,
+                "thumbnail300x300": "album-images/300x300/JSTS%20-%20Justice%20%282021%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/JSTS%20-%20Justice%20%282021%29.png"
+            },
+            "artists": [
+                {
+                    "id": 119,
+                    "name": "Justin Bieber",
+                    "thumbnail300x300": "artist-images/300x300/Justin%20Bieber.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Justin%20Bieber.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 6,
+                    "name": "English"
+                }
+            ]
+        },
+        "1390": {
+            "id": 1390,
+            "title": "KANK - Where's the Party Tonight.mp3",
+            "url": "songs-file/KANK%20-%20Where%27s%20the%20Party%20Tonight.mp3",
+            "original_name": "Where's the Party Tonight",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 378.160181,
+            "short_video_url": null,
+            "album": {
+                "id": 203,
+                "code": "KANK",
+                "title": "Kabhi Alvida Naa Kehna",
+                "year": 2006,
+                "thumbnail300x300": "album-images/300x300/KANK%20-%20Kabhi%20Alvida%20Naa%20Kehna%20(2006).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/KANK%20-%20Kabhi%20Alvida%20Naa%20Kehna%20(2006).jpg"
+            },
+            "artists": [
+                {
+                    "id": 210,
+                    "name": "Vasundhara Das",
+                    "thumbnail300x300": "artist-images/300x300/Vasundhara%20Das.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vasundhara%20Das.jpg"
+                },
+                {
+                    "id": 234,
+                    "name": "Loy Mendonsa",
+                    "thumbnail300x300": "artist-images/300x300/Loy%20Mendonsa.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Loy%20Mendonsa.jpg"
+                },
+                {
+                    "id": 110,
+                    "name": "Shankar Mahadevan",
+                    "thumbnail300x300": "artist-images/300x300/Shankar%20Mahadevan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shankar%20Mahadevan.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Shaan",
+                    "thumbnail300x300": "artist-images/300x300/Shaan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shaan.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1391": {
+            "id": 1391,
+            "title": "WR - Ghungroo.mp3",
+            "url": "songs-file/WR%20-%20Ghungroo.mp3",
+            "original_name": "Ghungroo",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 302.950748,
+            "short_video_url": null,
+            "album": {
+                "id": 945,
+                "code": "WR",
+                "title": "War",
+                "year": 2019,
+                "thumbnail300x300": "album-images/300x300/WR%20-%20War%20%282019%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/WR%20-%20War%20%282019%29.png"
+            },
+            "artists": [
+                {
+                    "id": 144,
+                    "name": "Vishal-Shekhar",
+                    "thumbnail300x300": "artist-images/300x300/Vishal-Shekhar.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vishal-Shekhar.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1392": {
+            "id": 1392,
+            "title": "SMBA - Bandeya Re Bandeya.mp3",
+            "url": "songs-file/SMBA%20-%20Bandeya%20Re%20Bandeya.mp3",
+            "original_name": "Bandeya Re Bandeya",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 254.915918,
+            "short_video_url": null,
+            "album": {
+                "id": 946,
+                "code": "SMBA",
+                "title": "Simmba",
+                "year": 2018,
+                "thumbnail300x300": "album-images/300x300/SMBA%20-%20Simmba%20%282018%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/SMBA%20-%20Simmba%20%282018%29.png"
+            },
+            "artists": [
+                {
+                    "id": 232,
+                    "name": "Asees Kaur",
+                    "thumbnail300x300": "artist-images/300x300/Asees%20Kaur.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Asees%20Kaur.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Arijit Singh",
+                    "thumbnail300x300": "artist-images/300x300/Arijit%20Singh.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Arijit%20Singh.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1393": {
+            "id": 1393,
+            "title": "UdtPnjb - Da Da Dasse.mp3",
+            "url": "songs-file/UdtPnjb%20-%20Da%20Da%20Dasse.mp3",
+            "original_name": "Da Da Dasse",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 213.12,
+            "short_video_url": null,
+            "album": {
+                "id": 947,
+                "code": "UdtPnjb",
+                "title": "Udta Punjab",
+                "year": 2016,
+                "thumbnail300x300": "album-images/300x300/UdtPnjb%20-%20Udta%20Punjab%20%282016%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/UdtPnjb%20-%20Udta%20Punjab%20%282016%29.png"
+            },
+            "artists": [
+                {
+                    "id": 57,
+                    "name": "Kanika Kapoor",
+                    "thumbnail300x300": "artist-images/300x300/Kanika%20Kapoor.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Kanika%20Kapoor.jpg"
+                },
+                {
+                    "id": 774,
+                    "name": "Babu Haabi",
+                    "thumbnail300x300": "artist-images/300x300/Babu%20Haabi.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Babu%20Haabi.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 16,
+                    "name": "Punjabi"
+                },
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1394": {
+            "id": 1394,
+            "title": "EnfBgnn - End of Beginning.mp3",
+            "url": "songs-file/EnfBgnn%20-%20End%20of%20Beginning.mp3",
+            "original_name": "End of Beginning",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 159.336,
+            "short_video_url": null,
+            "album": {
+                "id": 948,
+                "code": "EnfBgnn",
+                "title": "End of Beginning",
+                "year": 2022,
+                "thumbnail300x300": "album-images/300x300/EnfBgnn%20-%20End%20of%20Beginning%20%282022%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/EnfBgnn%20-%20End%20of%20Beginning%20%282022%29.png"
+            },
+            "artists": [
+                {
+                    "id": 775,
+                    "name": "Joe Keery",
+                    "thumbnail300x300": "artist-images/300x300/Joe%20Keery.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Joe%20Keery.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 6,
+                    "name": "English"
+                }
+            ]
+        },
+        "1395": {
+            "id": 1395,
+            "title": "LUV - Jim Jim (Phonk).mp3",
+            "url": "songs-file/LUV%20-%20Jim%20Jim%20%28Phonk%29.mp3",
+            "original_name": "Jim Jim (Phonk)",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 92.04,
+            "short_video_url": null,
+            "album": {
+                "id": 465,
+                "code": "LUV",
+                "title": "Love (\u0cb2\u0cb5\u0ccd)",
+                "year": 2004,
+                "thumbnail300x300": "album-images/300x300/LUV - Love (\u0cb2\u0cb5\u0ccd) (2004).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/LUV - Love (\u0cb2\u0cb5\u0ccd) (2004).jpg"
+            },
+            "artists": [
+                {
+                    "id": 375,
+                    "name": "Lakshmi Matthieu",
+                    "thumbnail300x300": "artist-images/300x300/Lakshmi%20Matthieu.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Lakshmi%20Matthieu.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 21,
+                    "name": "Kannada"
+                }
+            ]
+        },
+        "1396": {
+            "id": 1396,
+            "title": "strly - starly.mp3",
+            "url": "songs-file/strly%20-%20starly.mp3",
+            "original_name": "starly",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 135.96,
+            "short_video_url": null,
+            "album": {
+                "id": 949,
+                "code": "strly",
+                "title": "starly",
+                "year": 2025,
+                "thumbnail300x300": "album-images/300x300/strly%20-%20starly%20%282025%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/strly%20-%20starly%20%282025%29.png"
+            },
+            "artists": [
+                {
+                    "id": 776,
+                    "name": "riserayss",
+                    "thumbnail300x300": "artist-images/300x300/riserayss.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/riserayss.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 3,
+                    "name": "BGM"
+                }
+            ]
+        },
+        "1397": {
+            "id": 1397,
+            "title": "DHRNDR - Ishq Jalakar.mp3",
+            "url": "songs-file/DHRNDR%20-%20Ishq%20Jalakar.mp3",
+            "original_name": "Ishq Jalakar",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 250.896,
+            "short_video_url": null,
+            "album": {
+                "id": 950,
+                "code": "DHRNDR",
+                "title": "Dhurandhar",
+                "year": 2025,
+                "thumbnail300x300": "album-images/300x300/DHRNDR%20-%20Dhurandhar%20%282025%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/DHRNDR%20-%20Dhurandhar%20%282025%29.png"
+            },
+            "artists": [
+                {
+                    "id": 777,
+                    "name": "Shashwat Sachdev",
+                    "thumbnail300x300": "artist-images/300x300/Shashwat%20Sachdev.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shashwat%20Sachdev.png"
+                },
+                {
+                    "id": 778,
+                    "name": "Sahir Ludhianvi",
+                    "thumbnail300x300": "artist-images/300x300/Sahir%20Ludhianvi.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sahir%20Ludhianvi.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1398": {
+            "id": 1398,
+            "title": "AA - Tumse Hi Tumse.mp3",
+            "url": "songs-file/AA%20-%20Tumse%20Hi%20Tumse.mp3",
+            "original_name": "Tumse Hi Tumse",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 263.174966,
+            "short_video_url": null,
+            "album": {
+                "id": 30,
+                "code": "AA",
+                "title": "Anjaana Anjaani",
+                "year": 2010,
+                "thumbnail300x300": "album-images/300x300/AA%20-%20Anjaana%20Anjaani%20(2010).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/AA%20-%20Anjaana%20Anjaani%20(2010).jpg"
+            },
+            "artists": [
+                {
+                    "id": 144,
+                    "name": "Vishal-Shekhar",
+                    "thumbnail300x300": "artist-images/300x300/Vishal-Shekhar.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vishal-Shekhar.jpg"
+                },
+                {
+                    "id": 227,
+                    "name": "Caralisa Monteiro",
+                    "thumbnail300x300": "artist-images/300x300/Caralisa%20Monteiro.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Caralisa%20Monteiro.jpg"
+                },
+                {
+                    "id": 60,
+                    "name": "Shekhar Ravjiani",
+                    "thumbnail300x300": "artist-images/300x300/Shekhar%20Ravjiani.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shekhar%20Ravjiani.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1399": {
+            "id": 1399,
+            "title": "K7 - Sari Sari Raat.mp3",
+            "url": "songs-file/K7%20-%20Sari%20Sari%20Raat.mp3",
+            "original_name": "Sari Sari Raat",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 330.327075,
+            "short_video_url": null,
+            "album": {
+                "id": 222,
+                "code": "K7",
+                "title": "Khiladi 786",
+                "year": 2012,
+                "thumbnail300x300": "album-images/300x300/K7%20-%20Khiladi%20786%20(2012).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/K7%20-%20Khiladi%20786%20(2012).jpg"
+            },
+            "artists": [
+                {
+                    "id": 183,
+                    "name": "Himesh Reshammiya",
+                    "thumbnail300x300": "artist-images/300x300/Himesh%20Reshammiya.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Himesh%20Reshammiya.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1400": {
+            "id": 1400,
+            "title": "TsMK - Happy Ending.mp3",
+            "url": "songs-file/TsMK%20-%20Happy%20Ending.mp3",
+            "original_name": "Happy Ending",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 283.654966,
+            "short_video_url": null,
+            "album": {
+                "id": 426,
+                "code": "TsMK",
+                "title": "Tees Maar Khan",
+                "year": 2010,
+                "thumbnail300x300": "album-images/300x300/TsMK%20-%20Tees%20Maar%20Khan%20(2010).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/TsMK%20-%20Tees%20Maar%20Khan%20(2010).jpg"
+            },
+            "artists": [
+                {
+                    "id": 779,
+                    "name": "Debojit Saha",
+                    "thumbnail300x300": "artist-images/300x300/Debojit%20Saha.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Debojit%20Saha.png"
+                },
+                {
+                    "id": 780,
+                    "name": "Prajakta Shukre",
+                    "thumbnail300x300": "artist-images/300x300/Prajakta%20Shukre.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Prajakta%20Shukre.png"
+                },
+                {
+                    "id": 781,
+                    "name": "Abhijeet Sawant",
+                    "thumbnail300x300": "artist-images/300x300/Abhijeet%20Sawant.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Abhijeet%20Sawant.png"
+                },
+                {
+                    "id": 144,
+                    "name": "Vishal-Shekhar",
+                    "thumbnail300x300": "artist-images/300x300/Vishal-Shekhar.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vishal-Shekhar.jpg"
+                },
+                {
+                    "id": 383,
+                    "name": "Harshit Saxena",
+                    "thumbnail300x300": "artist-images/300x300/Harshit%20Saxena.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Harshit%20Saxena.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1401": {
+            "id": 1401,
+            "title": "TsMK - Tees Maar Khan.mp3",
+            "url": "songs-file/TsMK%20-%20Tees%20Maar%20Khan.mp3",
+            "original_name": "Tees Maar Khan",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 257.044898,
+            "short_video_url": null,
+            "album": {
+                "id": 426,
+                "code": "TsMK",
+                "title": "Tees Maar Khan",
+                "year": 2010,
+                "thumbnail300x300": "album-images/300x300/TsMK%20-%20Tees%20Maar%20Khan%20(2010).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/TsMK%20-%20Tees%20Maar%20Khan%20(2010).jpg"
+            },
+            "artists": [
+                {
+                    "id": 8,
+                    "name": "Sonu Nigam",
+                    "thumbnail300x300": "artist-images/300x300/Sonu%20Nigam.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sonu%20Nigam.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1402": {
+            "id": 1402,
+            "title": "TsMK - Sheila Ki Jawani.mp3",
+            "url": "songs-file/TsMK%20-%20Sheila%20Ki%20Jawani.mp3",
+            "original_name": "Sheila Ki Jawani",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 283.910385,
+            "short_video_url": null,
+            "album": {
+                "id": 426,
+                "code": "TsMK",
+                "title": "Tees Maar Khan",
+                "year": 2010,
+                "thumbnail300x300": "album-images/300x300/TsMK%20-%20Tees%20Maar%20Khan%20(2010).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/TsMK%20-%20Tees%20Maar%20Khan%20(2010).jpg"
+            },
+            "artists": [
+                {
+                    "id": 144,
+                    "name": "Vishal-Shekhar",
+                    "thumbnail300x300": "artist-images/300x300/Vishal-Shekhar.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vishal-Shekhar.jpg"
+                },
+                {
+                    "id": 11,
+                    "name": "Vishal Dadlani",
+                    "thumbnail300x300": "artist-images/300x300/Vishal%20Dadlani.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vishal%20Dadlani.jpg"
+                },
+                {
+                    "id": 43,
+                    "name": "Sunidhi Chauhan",
+                    "thumbnail300x300": "artist-images/300x300/Sunidhi%20Chauhan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sunidhi%20Chauhan.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1403": {
+            "id": 1403,
+            "title": "TsMK - Badey Dil Wala.mp3",
+            "url": "songs-file/TsMK%20-%20Badey%20Dil%20Wala.mp3",
+            "original_name": "Badey Dil Wala",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 295.566803,
+            "short_video_url": null,
+            "album": {
+                "id": 426,
+                "code": "TsMK",
+                "title": "Tees Maar Khan",
+                "year": 2010,
+                "thumbnail300x300": "album-images/300x300/TsMK%20-%20Tees%20Maar%20Khan%20(2010).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/TsMK%20-%20Tees%20Maar%20Khan%20(2010).jpg"
+            },
+            "artists": [
+                {
+                    "id": 144,
+                    "name": "Vishal-Shekhar",
+                    "thumbnail300x300": "artist-images/300x300/Vishal-Shekhar.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vishal-Shekhar.jpg"
+                },
+                {
+                    "id": 24,
+                    "name": "Shreya Ghoshal",
+                    "thumbnail300x300": "artist-images/300x300/Shreya%20Ghoshal.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shreya%20Ghoshal.jpg"
+                },
+                {
+                    "id": 88,
+                    "name": "Sukhwinder Singh",
+                    "thumbnail300x300": "artist-images/300x300/Sukhwinder%20Singh.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sukhwinder%20Singh.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1404": {
+            "id": 1404,
+            "title": "DDD - Paisa Paisa.mp3",
+            "url": "songs-file/DDD%20-%20Paisa%20Paisa.mp3",
+            "original_name": "Paisa Paisa",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 234.544762,
+            "short_video_url": null,
+            "album": {
+                "id": 92,
+                "code": "DDD",
+                "title": "De Dana Dan",
+                "year": 2009,
+                "thumbnail300x300": "album-images/300x300/DDD%20-%20De%20Dana%20Dan%20(2009).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/DDD%20-%20De%20Dana%20Dan%20(2009).jpg"
+            },
+            "artists": [
+                {
+                    "id": 419,
+                    "name": "Unknown",
+                    "thumbnail300x300": "artist-images/300x300/Unknown.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Unknown.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1405": {
+            "id": 1405,
+            "title": "DDD - Hotty Naughty.mp3",
+            "url": "songs-file/DDD%20-%20Hotty%20Naughty.mp3",
+            "original_name": "Hotty Naughty",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 218.128254,
+            "short_video_url": null,
+            "album": {
+                "id": 92,
+                "code": "DDD",
+                "title": "De Dana Dan",
+                "year": 2009,
+                "thumbnail300x300": "album-images/300x300/DDD%20-%20De%20Dana%20Dan%20(2009).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/DDD%20-%20De%20Dana%20Dan%20(2009).jpg"
+            },
+            "artists": [
+                {
+                    "id": 419,
+                    "name": "Unknown",
+                    "thumbnail300x300": "artist-images/300x300/Unknown.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Unknown.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1406": {
+            "id": 1406,
+            "title": "BHGMB - Afreen.mp3",
+            "url": "songs-file/BHGMB%20-%20Afreen.mp3",
+            "original_name": "Afreen",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 366.589388,
+            "short_video_url": null,
+            "album": {
+                "id": 53,
+                "code": "BHGMB",
+                "title": "Bhagam Bhag",
+                "year": 2006,
+                "thumbnail300x300": "album-images/300x300/BHGMB%20-%20Bhagam%20Bhag%20(2006).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/BHGMB%20-%20Bhagam%20Bhag%20(2006).jpg"
+            },
+            "artists": [
+                {
+                    "id": 35,
+                    "name": "Pritam Chakraborty",
+                    "thumbnail300x300": "artist-images/300x300/Pritam%20Chakraborty.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Pritam%20Chakraborty.jpg"
+                },
+                {
+                    "id": 43,
+                    "name": "Sunidhi Chauhan",
+                    "thumbnail300x300": "artist-images/300x300/Sunidhi%20Chauhan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sunidhi%20Chauhan.jpg"
+                },
+                {
+                    "id": 29,
+                    "name": "KK",
+                    "thumbnail300x300": "artist-images/300x300/KK.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/KK.jpg"
+                },
+                {
+                    "id": 295,
+                    "name": "Sameer Anjaan",
+                    "thumbnail300x300": "artist-images/300x300/Sameer%20Anjaan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sameer%20Anjaan.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1407": {
+            "id": 1407,
+            "title": "W - Kola Laka Vellari.mp3",
+            "url": "songs-file/W%20-%20Kola%20Laka%20Vellari.mp3",
+            "original_name": "Kola Laka Vellari",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 338.1522,
+            "short_video_url": null,
+            "album": {
+                "id": 394,
+                "code": "W",
+                "title": "Welcome",
+                "year": 2007,
+                "thumbnail300x300": "album-images/300x300/W%20-%20Welcome%20(2007).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/W%20-%20Welcome%20(2007).jpg"
+            },
+            "artists": [
+                {
+                    "id": 183,
+                    "name": "Himesh Reshammiya",
+                    "thumbnail300x300": "artist-images/300x300/Himesh%20Reshammiya.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Himesh%20Reshammiya.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1408": {
+            "id": 1408,
+            "title": "W - Insha Allah.mp3",
+            "url": "songs-file/W%20-%20Insha%20Allah.mp3",
+            "original_name": "Insha Allah",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 338.05932,
+            "short_video_url": null,
+            "album": {
+                "id": 394,
+                "code": "W",
+                "title": "Welcome",
+                "year": 2007,
+                "thumbnail300x300": "album-images/300x300/W%20-%20Welcome%20(2007).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/W%20-%20Welcome%20(2007).jpg"
+            },
+            "artists": [
+                {
+                    "id": 89,
+                    "name": "Akriti Kakar",
+                    "thumbnail300x300": "artist-images/300x300/Akriti%20Kakar.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Akriti%20Kakar.jpg"
+                },
+                {
+                    "id": 74,
+                    "name": "Krishna Beuraa",
+                    "thumbnail300x300": "artist-images/300x300/Krishna%20Beuraa.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Krishna%20Beuraa.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Shaan",
+                    "thumbnail300x300": "artist-images/300x300/Shaan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shaan.jpg"
+                },
+                {
+                    "id": 183,
+                    "name": "Himesh Reshammiya",
+                    "thumbnail300x300": "artist-images/300x300/Himesh%20Reshammiya.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Himesh%20Reshammiya.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1409": {
+            "id": 1409,
+            "title": "W - Hoth Rasiley.mp3",
+            "url": "songs-file/W%20-%20Hoth%20Rasiley.mp3",
+            "original_name": "Hoth Rasiley",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 280.288073,
+            "short_video_url": null,
+            "album": {
+                "id": 394,
+                "code": "W",
+                "title": "Welcome",
+                "year": 2007,
+                "thumbnail300x300": "album-images/300x300/W%20-%20Welcome%20(2007).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/W%20-%20Welcome%20(2007).jpg"
+            },
+            "artists": [
+                {
+                    "id": 24,
+                    "name": "Shreya Ghoshal",
+                    "thumbnail300x300": "artist-images/300x300/Shreya%20Ghoshal.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shreya%20Ghoshal.jpg"
+                },
+                {
+                    "id": 338,
+                    "name": "Anand Raj Anand",
+                    "thumbnail300x300": "artist-images/300x300/Anand%20Raj%20Anand.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Anand%20Raj%20Anand.jpg"
+                },
+                {
+                    "id": 110,
+                    "name": "Shankar Mahadevan",
+                    "thumbnail300x300": "artist-images/300x300/Shankar%20Mahadevan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shankar%20Mahadevan.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1410": {
+            "id": 1410,
+            "title": "D1 - Dhoom machale.mp3",
+            "url": "songs-file/D1%20-%20Dhoom%20machale.mp3",
+            "original_name": "Dhoom machale",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 375.183673,
+            "short_video_url": null,
+            "album": {
+                "id": 951,
+                "code": "D1",
+                "title": "Dhoom",
+                "year": 2004,
+                "thumbnail300x300": "album-images/300x300/D1%20-%20Dhoom%20%282004%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/D1%20-%20Dhoom%20%282004%29.png"
+            },
+            "artists": [
+                {
+                    "id": 43,
+                    "name": "Sunidhi Chauhan",
+                    "thumbnail300x300": "artist-images/300x300/Sunidhi%20Chauhan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sunidhi%20Chauhan.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1411": {
+            "id": 1411,
+            "title": "D1 - Shikdum.mp3",
+            "url": "songs-file/D1%20-%20Shikdum.mp3",
+            "original_name": "Shikdum",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 327.640816,
+            "short_video_url": null,
+            "album": {
+                "id": 951,
+                "code": "D1",
+                "title": "Dhoom",
+                "year": 2004,
+                "thumbnail300x300": "album-images/300x300/D1%20-%20Dhoom%20%282004%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/D1%20-%20Dhoom%20%282004%29.png"
+            },
+            "artists": [
+                {
+                    "id": 24,
+                    "name": "Shreya Ghoshal",
+                    "thumbnail300x300": "artist-images/300x300/Shreya%20Ghoshal.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shreya%20Ghoshal.jpg"
+                },
+                {
+                    "id": 29,
+                    "name": "KK",
+                    "thumbnail300x300": "artist-images/300x300/KK.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/KK.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Shaan",
+                    "thumbnail300x300": "artist-images/300x300/Shaan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shaan.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1412": {
+            "id": 1412,
+            "title": "D1 - Salaame.mp3",
+            "url": "songs-file/D1%20-%20Salaame.mp3",
+            "original_name": "Salaame",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 317.818776,
+            "short_video_url": null,
+            "album": {
+                "id": 951,
+                "code": "D1",
+                "title": "Dhoom",
+                "year": 2004,
+                "thumbnail300x300": "album-images/300x300/D1%20-%20Dhoom%20%282004%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/D1%20-%20Dhoom%20%282004%29.png"
+            },
+            "artists": [
+                {
+                    "id": 210,
+                    "name": "Vasundhara Das",
+                    "thumbnail300x300": "artist-images/300x300/Vasundhara%20Das.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vasundhara%20Das.jpg"
+                },
+                {
+                    "id": 86,
+                    "name": "Kunal Ganjawala",
+                    "thumbnail300x300": "artist-images/300x300/Kunal%20Ganjawala.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Kunal%20Ganjawala.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1413": {
+            "id": 1413,
+            "title": "RNBDJ - Haule Haule.mp3",
+            "url": "songs-file/RNBDJ%20-%20Haule%20Haule.mp3",
+            "original_name": "Haule Haule",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 263.987664,
+            "short_video_url": null,
+            "album": {
+                "id": 306,
+                "code": "RNBDJ",
+                "title": "Rab Ne Bana Di Jodi",
+                "year": 2008,
+                "thumbnail300x300": "album-images/300x300/RNBDJ%20-%20Rab%20Ne%20Bana%20Di%20Jodi%20(2008).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/RNBDJ%20-%20Rab%20Ne%20Bana%20Di%20Jodi%20(2008).jpg"
+            },
+            "artists": [
+                {
+                    "id": 88,
+                    "name": "Sukhwinder Singh",
+                    "thumbnail300x300": "artist-images/300x300/Sukhwinder%20Singh.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sukhwinder%20Singh.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1414": {
+            "id": 1414,
+            "title": "RNBDJ - Dance Pe Chance.mp3",
+            "url": "songs-file/RNBDJ%20-%20Dance%20Pe%20Chance.mp3",
+            "original_name": "Dance Pe Chance",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 261.03873,
+            "short_video_url": null,
+            "album": {
+                "id": 306,
+                "code": "RNBDJ",
+                "title": "Rab Ne Bana Di Jodi",
+                "year": 2008,
+                "thumbnail300x300": "album-images/300x300/RNBDJ%20-%20Rab%20Ne%20Bana%20Di%20Jodi%20(2008).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/RNBDJ%20-%20Rab%20Ne%20Bana%20Di%20Jodi%20(2008).jpg"
+            },
+            "artists": [
+                {
+                    "id": 43,
+                    "name": "Sunidhi Chauhan",
+                    "thumbnail300x300": "artist-images/300x300/Sunidhi%20Chauhan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sunidhi%20Chauhan.jpg"
+                },
+                {
+                    "id": 276,
+                    "name": "Labh Janjua",
+                    "thumbnail300x300": "artist-images/300x300/Labh%20Janjua.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Labh%20Janjua.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1415": {
+            "id": 1415,
+            "title": "RNBDJ - Phir Milenge Chalte Chalte.mp3",
+            "url": "songs-file/RNBDJ%20-%20Phir%20Milenge%20Chalte%20Chalte.mp3",
+            "original_name": "Phir Milenge Chalte Chalte",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 394.18195,
+            "short_video_url": null,
+            "album": {
+                "id": 306,
+                "code": "RNBDJ",
+                "title": "Rab Ne Bana Di Jodi",
+                "year": 2008,
+                "thumbnail300x300": "album-images/300x300/RNBDJ%20-%20Rab%20Ne%20Bana%20Di%20Jodi%20(2008).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/RNBDJ%20-%20Rab%20Ne%20Bana%20Di%20Jodi%20(2008).jpg"
+            },
+            "artists": [
+                {
+                    "id": 8,
+                    "name": "Sonu Nigam",
+                    "thumbnail300x300": "artist-images/300x300/Sonu%20Nigam.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sonu%20Nigam.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1416": {
+            "id": 1416,
+            "title": "OSO - Deewangi Deewangi.mp3",
+            "url": "songs-file/OSO%20-%20Deewangi%20Deewangi.mp3",
+            "original_name": "Deewangi Deewangi",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 357.146122,
+            "short_video_url": null,
+            "album": {
+                "id": 277,
+                "code": "OSO",
+                "title": "Om Shanti Om",
+                "year": 2007,
+                "thumbnail300x300": "album-images/300x300/OSO%20-%20Om%20Shanti%20Om%20(2007).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/OSO%20-%20Om%20Shanti%20Om%20(2007).jpg"
+            },
+            "artists": [
+                {
+                    "id": 6,
+                    "name": "Shaan",
+                    "thumbnail300x300": "artist-images/300x300/Shaan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shaan.jpg"
+                },
+                {
+                    "id": 39,
+                    "name": "Udit Narayan",
+                    "thumbnail300x300": "artist-images/300x300/Udit%20Narayan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Udit%20Narayan.jpg"
+                },
+                {
+                    "id": 43,
+                    "name": "Sunidhi Chauhan",
+                    "thumbnail300x300": "artist-images/300x300/Sunidhi%20Chauhan.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sunidhi%20Chauhan.jpg"
+                },
+                {
+                    "id": 144,
+                    "name": "Vishal-Shekhar",
+                    "thumbnail300x300": "artist-images/300x300/Vishal-Shekhar.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vishal-Shekhar.jpg"
+                },
+                {
+                    "id": 24,
+                    "name": "Shreya Ghoshal",
+                    "thumbnail300x300": "artist-images/300x300/Shreya%20Ghoshal.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Shreya%20Ghoshal.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1417": {
+            "id": 1417,
+            "title": "OSO - Dard-E-Disco.mp3",
+            "url": "songs-file/OSO%20-%20Dard-E-Disco.mp3",
+            "original_name": "Dard-E-Disco",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 274.111565,
+            "short_video_url": null,
+            "album": {
+                "id": 277,
+                "code": "OSO",
+                "title": "Om Shanti Om",
+                "year": 2007,
+                "thumbnail300x300": "album-images/300x300/OSO%20-%20Om%20Shanti%20Om%20(2007).jpg",
+                "thumbnail1200x1200": "album-images/1200x1200/OSO%20-%20Om%20Shanti%20Om%20(2007).jpg"
+            },
+            "artists": [
+                {
+                    "id": 88,
+                    "name": "Sukhwinder Singh",
+                    "thumbnail300x300": "artist-images/300x300/Sukhwinder%20Singh.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Sukhwinder%20Singh.jpg"
+                },
+                {
+                    "id": 227,
+                    "name": "Caralisa Monteiro",
+                    "thumbnail300x300": "artist-images/300x300/Caralisa%20Monteiro.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Caralisa%20Monteiro.jpg"
+                },
+                {
+                    "id": 220,
+                    "name": "Marianne D'Cruz",
+                    "thumbnail300x300": "artist-images/300x300/Marianne%20D'Cruz.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Marianne%20D'Cruz.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 2,
+                    "name": "Hindi"
+                }
+            ]
+        },
+        "1418": {
+            "id": 1418,
+            "title": "TWTIA - The Winner Takes It All.mp3",
+            "url": "songs-file/TWTIA%20-%20The%20Winner%20Takes%20It%20All.mp3",
+            "original_name": "The Winner Takes It All",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 297.168,
+            "short_video_url": null,
+            "album": {
+                "id": 952,
+                "code": "TWTIA",
+                "title": "The Winner Takes It All",
+                "year": 1980,
+                "thumbnail300x300": "album-images/300x300/TWTIA%20-%20The%20Winner%20Takes%20It%20All%20%281980%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/TWTIA%20-%20The%20Winner%20Takes%20It%20All%20%281980%29.png"
+            },
+            "artists": [
+                {
+                    "id": 782,
+                    "name": "ABBA",
+                    "thumbnail300x300": "artist-images/300x300/ABBA.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/ABBA.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 6,
+                    "name": "English"
+                }
+            ]
+        },
+        "1420": {
+            "id": 1420,
+            "title": "FRNDSJB - Friends.mp3",
+            "url": "songs-file/FRNDSJB%20-%20Friends.mp3",
+            "original_name": "Friends",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 189.504,
+            "short_video_url": null,
+            "album": {
+                "id": 954,
+                "code": "FRNDSJB",
+                "title": "Friends",
+                "year": 2017,
+                "thumbnail300x300": "album-images/300x300/FRNDSJB%20-%20Friends%20%282017%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/FRNDSJB%20-%20Friends%20%282017%29.png"
+            },
+            "artists": [
+                {
+                    "id": 119,
+                    "name": "Justin Bieber",
+                    "thumbnail300x300": "artist-images/300x300/Justin%20Bieber.jpg",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Justin%20Bieber.jpg"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 6,
+                    "name": "English"
+                }
+            ]
+        },
+        "1421": {
+            "id": 1421,
+            "title": "CNJ - Nasty Jamz.mp3",
+            "url": "songs-file/CNJ%20-%20Nasty%20Jamz.mp3",
+            "original_name": "Nasty Jamz",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 163.944,
+            "short_video_url": null,
+            "album": {
+                "id": 955,
+                "code": "CNJ",
+                "title": "Coolzone (nasty jamz)",
+                "year": 2015,
+                "thumbnail300x300": "album-images/300x300/CNJ%20-%20Coolzone%20%28nasty%20jamz%29%20%282015%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/CNJ%20-%20Coolzone%20%28nasty%20jamz%29%20%282015%29.png"
+            },
+            "artists": [
+                {
+                    "id": 783,
+                    "name": "Coolzone",
+                    "thumbnail300x300": "artist-images/300x300/Coolzone.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Coolzone.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 3,
+                    "name": "BGM"
+                }
+            ]
+        },
+        "1422": {
+            "id": 1422,
+            "title": "LALALA - Lalala.mp3",
+            "url": "songs-file/LALALA%20-%20Lalala.mp3",
+            "original_name": "Lalala",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 160.704,
+            "short_video_url": null,
+            "album": {
+                "id": 956,
+                "code": "LALALA",
+                "title": "Lalala",
+                "year": 2019,
+                "thumbnail300x300": "album-images/300x300/LALALA%20-%20Lalala%20%282019%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/LALALA%20-%20Lalala%20%282019%29.png"
+            },
+            "artists": [
+                {
+                    "id": 784,
+                    "name": "bbno$",
+                    "thumbnail300x300": "artist-images/300x300/bbno%24.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/bbno%24.png"
+                },
+                {
+                    "id": 785,
+                    "name": "Y2K",
+                    "thumbnail300x300": "artist-images/300x300/Y2K.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Y2K.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 6,
+                    "name": "English"
+                }
+            ]
+        },
+        "1423": {
+            "id": 1423,
+            "title": "HnH - Kings & Queens.mp3",
+            "url": "songs-file/HnH%20-%20Kings%20%26%20Queens.mp3",
+            "original_name": "Kings & Queens",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 160.128,
+            "short_video_url": null,
+            "album": {
+                "id": 957,
+                "code": "HnH",
+                "title": "Heaven & Hell",
+                "year": 2020,
+                "thumbnail300x300": "album-images/300x300/HnH%20-%20Heaven%20%26%20Hell%20%282020%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/HnH%20-%20Heaven%20%26%20Hell%20%282020%29.png"
+            },
+            "artists": [
+                {
+                    "id": 507,
+                    "name": "Ava Max",
+                    "thumbnail300x300": "artist-images/300x300/Ava%20Max.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Ava%20Max.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 6,
+                    "name": "English"
+                }
+            ]
+        },
+        "1424": {
+            "id": 1424,
+            "title": "LFOLE - Golden Brown.mp3",
+            "url": "songs-file/LFOLE%20-%20Golden%20Brown.mp3",
+            "original_name": "Golden Brown",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 206.784,
+            "short_video_url": null,
+            "album": {
+                "id": 958,
+                "code": "LFOLE",
+                "title": "La folie",
+                "year": 1981,
+                "thumbnail300x300": "album-images/300x300/LFOLE%20-%20La%20folie%20%281981%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/LFOLE%20-%20La%20folie%20%281981%29.png"
+            },
+            "artists": [
+                {
+                    "id": 786,
+                    "name": "The Stranglers",
+                    "thumbnail300x300": "artist-images/300x300/The%20Stranglers.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/The%20Stranglers.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 6,
+                    "name": "English"
+                }
+            ]
+        },
+        "1425": {
+            "id": 1425,
+            "title": "JUNK - Solitude.mp3",
+            "url": "songs-file/JUNK%20-%20Solitude.mp3",
+            "original_name": "Solitude",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 222.36,
+            "short_video_url": null,
+            "album": {
+                "id": 959,
+                "code": "JUNK",
+                "title": "Junk",
+                "year": 2016,
+                "thumbnail300x300": "album-images/300x300/JUNK%20-%20Junk%20%282016%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/JUNK%20-%20Junk%20%282016%29.png"
+            },
+            "artists": [
+                {
+                    "id": 787,
+                    "name": "M83",
+                    "thumbnail300x300": "artist-images/300x300/M83.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/M83.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 3,
+                    "name": "BGM"
+                }
+            ]
+        },
+        "1426": {
+            "id": 1426,
+            "title": "BNN - A Thousand Miles.mp3",
+            "url": "songs-file/BNN%20-%20A%20Thousand%20Miles.mp3",
+            "original_name": "A Thousand Miles",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 237.648,
+            "short_video_url": null,
+            "album": {
+                "id": 960,
+                "code": "BNN",
+                "title": "Be Not Nobody",
+                "year": 2002,
+                "thumbnail300x300": "album-images/300x300/BNN%20-%20Be%20Not%20Nobody%20%282002%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/BNN%20-%20Be%20Not%20Nobody%20%282002%29.png"
+            },
+            "artists": [
+                {
+                    "id": 788,
+                    "name": "Vanessa Carlton",
+                    "thumbnail300x300": "artist-images/300x300/Vanessa%20Carlton.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Vanessa%20Carlton.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 6,
+                    "name": "English"
+                }
+            ]
+        },
+        "1427": {
+            "id": 1427,
+            "title": "ATtSILY - I Think They Call This Love.mp3",
+            "url": "songs-file/ATtSILY%20-%20I%20Think%20They%20Call%20This%20Love.mp3",
+            "original_name": "I Think They Call This Love",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 196.416,
+            "short_video_url": null,
+            "album": {
+                "id": 961,
+                "code": "ATtSILY",
+                "title": "All This to Say I Love You",
+                "year": 2025,
+                "thumbnail300x300": "album-images/300x300/ATtSILY%20-%20All%20This%20to%20Say%20I%20Love%20You%20%282025%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/ATtSILY%20-%20All%20This%20to%20Say%20I%20Love%20You%20%282025%29.png"
+            },
+            "artists": [
+                {
+                    "id": 789,
+                    "name": "Elliot James Reay",
+                    "thumbnail300x300": "artist-images/300x300/Elliot%20James%20Reay.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Elliot%20James%20Reay.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 6,
+                    "name": "English"
+                }
+            ]
+        },
+        "1428": {
+            "id": 1428,
+            "title": "TWLaSS - Save Your Tears (Arabic).mp3",
+            "url": "songs-file/TWLaSS%20-%20Save%20Your%20Tears%20%28Arabic%29.mp3",
+            "original_name": "Save Your Tears (Arabic)",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 229.584,
+            "short_video_url": null,
+            "album": {
+                "id": 872,
+                "code": "TWLaSS",
+                "title": "The Weeknd: Live at SoFi Stadium",
+                "year": 2023,
+                "thumbnail300x300": "album-images/300x300/TWLaSS%20-%20The%20Weeknd%3A%20Live%20at%20SoFi%20Stadium%20%282023%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/TWLaSS%20-%20The%20Weeknd%3A%20Live%20at%20SoFi%20Stadium%20%282023%29.png"
+            },
+            "artists": [
+                {
+                    "id": 419,
+                    "name": "Unknown",
+                    "thumbnail300x300": "artist-images/300x300/Unknown.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Unknown.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 17,
+                    "name": "Arabic"
+                }
+            ]
+        },
+        "1429": {
+            "id": 1429,
+            "title": "TWLaSS - Blinding Lights (Arabic).mp3",
+            "url": "songs-file/TWLaSS%20-%20Blinding%20Lights%20%28Arabic%29.mp3",
+            "original_name": "Blinding Lights (Arabic)",
+            "lyrics": "",
+            "count": 0,
+            "liked_count": 0,
+            "duration": 266.664,
+            "short_video_url": null,
+            "album": {
+                "id": 872,
+                "code": "TWLaSS",
+                "title": "The Weeknd: Live at SoFi Stadium",
+                "year": 2023,
+                "thumbnail300x300": "album-images/300x300/TWLaSS%20-%20The%20Weeknd%3A%20Live%20at%20SoFi%20Stadium%20%282023%29.png",
+                "thumbnail1200x1200": "album-images/1200x1200/TWLaSS%20-%20The%20Weeknd%3A%20Live%20at%20SoFi%20Stadium%20%282023%29.png"
+            },
+            "artists": [
+                {
+                    "id": 419,
+                    "name": "Unknown",
+                    "thumbnail300x300": "artist-images/300x300/Unknown.png",
+                    "thumbnail1200x1200": "artist-images/1200x1200/Unknown.png"
+                }
+            ],
+            "languages": [
+                {
+                    "id": 17,
+                    "name": "Arabic"
+                }
+            ]
         }
     },
     "artists": {
@@ -55724,6 +57368,114 @@
             "name": "Irokz",
             "thumbnail300x300": "artist-images/300x300/Irokz.png",
             "thumbnail1200x1200": "artist-images/1200x1200/Irokz.png"
+        },
+        "772": {
+            "id": 772,
+            "name": "Remo Fernandes",
+            "thumbnail300x300": "artist-images/300x300/Remo%20Fernandes.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Remo%20Fernandes.png"
+        },
+        "773": {
+            "id": 773,
+            "name": "Vijay Prakash Sharma",
+            "thumbnail300x300": "artist-images/300x300/Vijay%20Prakash%20Sharma.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Vijay%20Prakash%20Sharma.png"
+        },
+        "774": {
+            "id": 774,
+            "name": "Babu Haabi",
+            "thumbnail300x300": "artist-images/300x300/Babu%20Haabi.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Babu%20Haabi.png"
+        },
+        "775": {
+            "id": 775,
+            "name": "Joe Keery",
+            "thumbnail300x300": "artist-images/300x300/Joe%20Keery.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Joe%20Keery.png"
+        },
+        "776": {
+            "id": 776,
+            "name": "riserayss",
+            "thumbnail300x300": "artist-images/300x300/riserayss.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/riserayss.png"
+        },
+        "777": {
+            "id": 777,
+            "name": "Shashwat Sachdev",
+            "thumbnail300x300": "artist-images/300x300/Shashwat%20Sachdev.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Shashwat%20Sachdev.png"
+        },
+        "778": {
+            "id": 778,
+            "name": "Sahir Ludhianvi",
+            "thumbnail300x300": "artist-images/300x300/Sahir%20Ludhianvi.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Sahir%20Ludhianvi.png"
+        },
+        "779": {
+            "id": 779,
+            "name": "Debojit Saha",
+            "thumbnail300x300": "artist-images/300x300/Debojit%20Saha.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Debojit%20Saha.png"
+        },
+        "780": {
+            "id": 780,
+            "name": "Prajakta Shukre",
+            "thumbnail300x300": "artist-images/300x300/Prajakta%20Shukre.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Prajakta%20Shukre.png"
+        },
+        "781": {
+            "id": 781,
+            "name": "Abhijeet Sawant",
+            "thumbnail300x300": "artist-images/300x300/Abhijeet%20Sawant.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Abhijeet%20Sawant.png"
+        },
+        "782": {
+            "id": 782,
+            "name": "ABBA",
+            "thumbnail300x300": "artist-images/300x300/ABBA.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/ABBA.png"
+        },
+        "783": {
+            "id": 783,
+            "name": "Coolzone",
+            "thumbnail300x300": "artist-images/300x300/Coolzone.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Coolzone.png"
+        },
+        "784": {
+            "id": 784,
+            "name": "bbno$",
+            "thumbnail300x300": "artist-images/300x300/bbno%24.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/bbno%24.png"
+        },
+        "785": {
+            "id": 785,
+            "name": "Y2K",
+            "thumbnail300x300": "artist-images/300x300/Y2K.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Y2K.png"
+        },
+        "786": {
+            "id": 786,
+            "name": "The Stranglers",
+            "thumbnail300x300": "artist-images/300x300/The%20Stranglers.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/The%20Stranglers.png"
+        },
+        "787": {
+            "id": 787,
+            "name": "M83",
+            "thumbnail300x300": "artist-images/300x300/M83.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/M83.png"
+        },
+        "788": {
+            "id": 788,
+            "name": "Vanessa Carlton",
+            "thumbnail300x300": "artist-images/300x300/Vanessa%20Carlton.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Vanessa%20Carlton.png"
+        },
+        "789": {
+            "id": 789,
+            "name": "Elliot James Reay",
+            "thumbnail300x300": "artist-images/300x300/Elliot%20James%20Reay.png",
+            "thumbnail1200x1200": "artist-images/1200x1200/Elliot%20James%20Reay.png"
         }
     },
     "languages": {
@@ -63662,6 +65414,156 @@
             "year": 2024,
             "thumbnail300x300": "album-images/300x300/FnkUnvrs%20-%20FUNK%20UNIVERSO%20%282024%29.png",
             "thumbnail1200x1200": "album-images/1200x1200/FnkUnvrs%20-%20FUNK%20UNIVERSO%20%282024%29.png"
+        },
+        "944": {
+            "id": 944,
+            "code": "Enthrn",
+            "title": "Enthiran (The Robot)",
+            "year": 2010,
+            "thumbnail300x300": "album-images/300x300/Enthrn%20-%20Enthiran%20%28The%20Robot%29%20%282010%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/Enthrn%20-%20Enthiran%20%28The%20Robot%29%20%282010%29.png",
+            "actors": [
+                {
+                    "id": 7,
+                    "name": "Aishwarya Rai Bachchan",
+                    "thumbnail300x300": "actor-images/300x300/Aishwarya%20Rai%20Bachchan.png",
+                    "thumbnail1200x1200": "actor-images/1200x1200/Aishwarya%20Rai%20Bachchan.png"
+                },
+                {
+                    "id": 63,
+                    "name": "Rajinikanth",
+                    "thumbnail300x300": "actor-images/300x300/Rajinikanth.png",
+                    "thumbnail1200x1200": "actor-images/1200x1200/Rajinikanth.png"
+                }
+            ]
+        },
+        "945": {
+            "id": 945,
+            "code": "WR",
+            "title": "War",
+            "year": 2019,
+            "thumbnail300x300": "album-images/300x300/WR%20-%20War%20%282019%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/WR%20-%20War%20%282019%29.png"
+        },
+        "946": {
+            "id": 946,
+            "code": "SMBA",
+            "title": "Simmba",
+            "year": 2018,
+            "thumbnail300x300": "album-images/300x300/SMBA%20-%20Simmba%20%282018%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/SMBA%20-%20Simmba%20%282018%29.png"
+        },
+        "947": {
+            "id": 947,
+            "code": "UdtPnjb",
+            "title": "Udta Punjab",
+            "year": 2016,
+            "thumbnail300x300": "album-images/300x300/UdtPnjb%20-%20Udta%20Punjab%20%282016%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/UdtPnjb%20-%20Udta%20Punjab%20%282016%29.png"
+        },
+        "948": {
+            "id": 948,
+            "code": "EnfBgnn",
+            "title": "End of Beginning",
+            "year": 2022,
+            "thumbnail300x300": "album-images/300x300/EnfBgnn%20-%20End%20of%20Beginning%20%282022%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/EnfBgnn%20-%20End%20of%20Beginning%20%282022%29.png"
+        },
+        "949": {
+            "id": 949,
+            "code": "strly",
+            "title": "starly",
+            "year": 2025,
+            "thumbnail300x300": "album-images/300x300/strly%20-%20starly%20%282025%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/strly%20-%20starly%20%282025%29.png"
+        },
+        "950": {
+            "id": 950,
+            "code": "DHRNDR",
+            "title": "Dhurandhar",
+            "year": 2025,
+            "thumbnail300x300": "album-images/300x300/DHRNDR%20-%20Dhurandhar%20%282025%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/DHRNDR%20-%20Dhurandhar%20%282025%29.png"
+        },
+        "951": {
+            "id": 951,
+            "code": "D1",
+            "title": "Dhoom",
+            "year": 2004,
+            "thumbnail300x300": "album-images/300x300/D1%20-%20Dhoom%20%282004%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/D1%20-%20Dhoom%20%282004%29.png"
+        },
+        "952": {
+            "id": 952,
+            "code": "TWTIA",
+            "title": "The Winner Takes It All",
+            "year": 1980,
+            "thumbnail300x300": "album-images/300x300/TWTIA%20-%20The%20Winner%20Takes%20It%20All%20%281980%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/TWTIA%20-%20The%20Winner%20Takes%20It%20All%20%281980%29.png"
+        },
+        "954": {
+            "id": 954,
+            "code": "FRNDSJB",
+            "title": "Friends",
+            "year": 2017,
+            "thumbnail300x300": "album-images/300x300/FRNDSJB%20-%20Friends%20%282017%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/FRNDSJB%20-%20Friends%20%282017%29.png"
+        },
+        "955": {
+            "id": 955,
+            "code": "CNJ",
+            "title": "Coolzone (nasty jamz)",
+            "year": 2015,
+            "thumbnail300x300": "album-images/300x300/CNJ%20-%20Coolzone%20%28nasty%20jamz%29%20%282015%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/CNJ%20-%20Coolzone%20%28nasty%20jamz%29%20%282015%29.png"
+        },
+        "956": {
+            "id": 956,
+            "code": "LALALA",
+            "title": "Lalala",
+            "year": 2019,
+            "thumbnail300x300": "album-images/300x300/LALALA%20-%20Lalala%20%282019%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/LALALA%20-%20Lalala%20%282019%29.png"
+        },
+        "957": {
+            "id": 957,
+            "code": "HnH",
+            "title": "Heaven & Hell",
+            "year": 2020,
+            "thumbnail300x300": "album-images/300x300/HnH%20-%20Heaven%20%26%20Hell%20%282020%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/HnH%20-%20Heaven%20%26%20Hell%20%282020%29.png"
+        },
+        "958": {
+            "id": 958,
+            "code": "LFOLE",
+            "title": "La folie",
+            "year": 1981,
+            "thumbnail300x300": "album-images/300x300/LFOLE%20-%20La%20folie%20%281981%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/LFOLE%20-%20La%20folie%20%281981%29.png"
+        },
+        "959": {
+            "id": 959,
+            "code": "JUNK",
+            "title": "Junk",
+            "year": 2016,
+            "thumbnail300x300": "album-images/300x300/JUNK%20-%20Junk%20%282016%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/JUNK%20-%20Junk%20%282016%29.png"
+        },
+        "960": {
+            "id": 960,
+            "code": "BNN",
+            "title": "Be Not Nobody",
+            "year": 2002,
+            "thumbnail300x300": "album-images/300x300/BNN%20-%20Be%20Not%20Nobody%20%282002%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/BNN%20-%20Be%20Not%20Nobody%20%282002%29.png"
+        },
+        "961": {
+            "id": 961,
+            "code": "ATtSILY",
+            "title": "All This to Say I Love You",
+            "year": 2025,
+            "thumbnail300x300": "album-images/300x300/ATtSILY%20-%20All%20This%20to%20Say%20I%20Love%20You%20%282025%29.png",
+            "thumbnail1200x1200": "album-images/1200x1200/ATtSILY%20-%20All%20This%20to%20Say%20I%20Love%20You%20%282025%29.png"
         }
     },
     "actors": {
@@ -64036,6 +65938,12 @@
             "name": "Manoj Bajpayee",
             "thumbnail300x300": "actor-images/300x300/Manoj%20Bajpayee.png",
             "thumbnail1200x1200": "actor-images/1200x1200/Manoj%20Bajpayee.png"
+        },
+        "63": {
+            "id": 63,
+            "name": "Rajinikanth",
+            "thumbnail300x300": "actor-images/300x300/Rajinikanth.png",
+            "thumbnail1200x1200": "actor-images/1200x1200/Rajinikanth.png"
         }
     }
 }
